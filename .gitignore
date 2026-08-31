@@ -1,0 +1,10 @@
+# ===== 操作系统 / IDE 元数据 =====
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+
+# ===== 本机智能体记忆(含 token 明文，切勿入库) =====
+.workbuddy/
